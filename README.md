@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/your-breath-warm-air/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Your Breath Warm Air](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-breath-warm-air/) |
+| **Get License** | [Get License For Your Breath Warm Air](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-breath-warm-air/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Your breath, warm air, across my skin
+> A quiet fire that pulls me in
+> The candlelight begins to sway
+> I want to love you the whole night away
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
