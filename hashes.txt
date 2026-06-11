@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Your Breath Warm Air
+
+This log tracks the cryptographic history and versioning for the song **Your Breath Warm Air** (your-breath-warm-air).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-12T01:50:26.237126 | `v1` | `54952ad30ff620b0b494b1e30f27c9ccf3cc3a76a031cff85f8640382e87e6ec` | `d5dff134e501f9bab978198126873acaacfb25030523c707e794c330d30f0fbf` | `2026-06-12_your-breath-warm-air-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
